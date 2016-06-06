@@ -8,5 +8,7 @@ namespace ConsoleApplication3
 {
     class Class2
     {
+        //
+        // this is ...
     }
 }
